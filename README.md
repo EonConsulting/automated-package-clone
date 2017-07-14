@@ -15,5 +15,5 @@ Linux
 -------
 Copy the auto_package_linux.sh file into the packages folder. From the terminal execute the following commands:
 
- 1. chmod 755 auto_package_linux.sh
- 2. ./auto_package_linux.sh
+   1. chmod 755 auto_package_linux.sh
+   2. ./auto_package_linux.sh
