@@ -2,8 +2,18 @@ This is a little script I create to automate the cloning of the packages in the 
 
 Please note:
  - This script is specific to the Unisa E-Content system.
- - This version is for Windows. I will create one for Linux.
+ - There is one for Windows and one for Linux
  
- Simply copy the .bat file into the "packages" folder, and either double click it, or run it from cmd by typing:
  
-    auto_package_clone.bat
+Windows
+-------
+Simply copy the auto_package_clone_win.bat file into the "packages" folder, and either double click it, or run it from cmd by typing:
+ 
+    auto_package_clone_win.bat
+    
+Linux
+-------
+Copy the auto_package_linux.sh file into the packages folder. From the terminal execute the following commands:
+
+ 1. chmod 755 auto_package_linux.sh
+ 2. ./auto_package_linux.sh
