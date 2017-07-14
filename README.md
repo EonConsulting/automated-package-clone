@@ -1,6 +1,6 @@
 This is a little script I create to automate the cloning of the packages in the "packages" folder. This is  a .bat script that steps through the folders and clones each one from the repository.
 
-####### Please note:
+###### Please note:
 - This script is specific to the Unisa E-Content system.
 - There is one for Windows and one for Linux
  
